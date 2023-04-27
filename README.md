@@ -5,6 +5,6 @@
 #### Supervised by: Diana Ikpen
 
 ##### Group members : 
- Marie Fabienne Sawadogo: 300101795 br
+ Marie Fabienne Sawadogo: 300101795 <br>
  Gabriel St Pierre: 300146514
 
