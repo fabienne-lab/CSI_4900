@@ -6,5 +6,7 @@
 
 ##### Group members : 
  Marie Fabienne Sawadogo: 300101795 <br>
- Gabriel St Pierre: 300146514
+ Gabriel St Pierre: 300146514<br>
+ 
+ Link to dataset: https://github.com/Helsinki-NLP/XED
 
